@@ -10,7 +10,7 @@ your system.  The easiest way to compile is to use a command-line
 - $ g++ -c -std=c++11 src/*.cpp
 - $ g++ -o starship *.o -lSDL2 -lSDL2_image
 
-Running these two commands will produce an executable file called "starship" in the
+Running these two commands will produce an executable file called "StarshipFontana" in the
 top-level directory.  To execute this file do the following
 
 `$ ./StarshipFontana`
