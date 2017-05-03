@@ -13,7 +13,7 @@ $ g++ -o starship *.o -lSDL2 -lSDL2_image
 Running these two commands will produce an executable file called "starship" in the
 top-level directory.  To execute this file do the following
 
-`$ ./starship`
+`$ ./StarshipFontana`
  
 from the top-level directory.  The game will expect to find the
 `assets` directory under its current working directory.
